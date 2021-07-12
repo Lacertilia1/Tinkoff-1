@@ -1,0 +1,149 @@
+{
+  "Name": {
+    "firstName": "Pavel",
+    "secondName": "Ivanov",
+    "middleName": "Romanovich"
+  },
+  "age": {
+    "year": 1995,
+    "month": 12,
+    "day": 25,
+    "currentAge": 25
+  },
+  "sex": {
+    "previous": "male",
+    "current": "male"
+  },
+  "address": {
+    "current": {
+      "index": "142301",
+      "country": "Russia",
+      "region": "Chekhov region",
+      "city": "Chekhov",
+      "street": "Ilyich",
+      "house": 41,
+      "apartment": 103
+    },
+    "registration": {
+      "index": "142306",
+      "country": "Russia",
+      "region": "Chekhov region",
+      "city": "Chekhov",
+      "street": "Moskovskaya",
+      "house": 83,
+      "apartment": 32
+    }
+  },
+  "personalInformation": {
+    "currentJob": {
+      "company": "Tinkoff",
+      "department": "Incoming Calls Department",
+      "experience": "19.05.2021",
+      "position": "specialist",
+      "rating": {
+        "may": "100 out of 100",
+        "june": "100 out of 100",
+        "july": "100 out of 100"
+      }
+    },
+    "hobby": {
+      "computerGames": {
+        "competitiveGames": [
+          "Dota 2",
+          "Counter-Strike Global Offensive",
+          "Escape From Tarkov",
+          "Age of Empires II",
+          "Civilization VI",
+          "Overwatch",
+          "Tom Clancy’s Rainbow Six Siege"
+        ],
+        "roleplayGames": [
+          "Fallout New Vegas",
+          "Fallout III",
+          "Fallout IV",
+          "Dark Souls III",
+          "The Elder Scrolls IV: Oblivion",
+          "The Elder Scrolls V: Skyrim"
+        ]
+      },
+      "learningToCode": {
+        "courses": {
+          "HTML Academy": {
+            "passed": {
+              "HTMl and CSS. Professional website layout": {
+                "date": "18.01.2021 - 21.03.2021",
+                "rating": "100 out of 100"
+              },
+              "HTMl and CSS. Adaptive layout and automation": {
+                "date": "22.03.2021 - 23.05.2021",
+                "rating": "100 out of 100"
+              }
+            },
+            "toBeCompleted": {
+              "Javascript. Professional development of web interfaces": {
+                "date": "21.09.2021 - 21.11.2021",
+                "rating": null
+              },
+              "Javascript. Client Application Architecture": {
+                "date": "22.11.2021 - 06.02.2022",
+                "rating": null
+              },
+              "React. Development of complex client applications": {
+                "date": "07.02.2022 - 10.04.2022",
+                "rating": null
+              }
+            }
+          }
+        },
+        "technology": [
+          "HTML",
+          "CSS",
+          "Javascript"
+        ],
+        "books": {
+          "HTML": {
+            "authorName": "Jon Duckett",
+            "bookName": "HTML and CSS: Design and Build Websites"
+          },
+          "Javascript": {
+            "authorName": "Jon Duckett",
+            "bookName": "JavaScript and JQuery: Interactive Front-End Web Development"
+          }
+        },
+        "mobileApps": [
+          "Mimo: Learn to Code",
+          "Duolingo",
+          "Brawl Stars"
+        ]
+      }
+    },
+    "wife": {
+      "Name": {
+        "firstName": "Svetlana",
+        "secondName": "Votintseva",
+        "middleName": "Alekseevna"
+      },
+      "age": {
+        "year": 1997,
+        "month": 12,
+        "day": 21,
+        "currentAge": 23
+      },
+      "sex": {
+        "previous": "female",
+        "current": "female"
+      },
+      "address": {
+        "current": {
+          "index": "142301",
+          "country": "Russia",
+          "region": "Chekhov region",
+          "city": "Chekhov",
+          "street": "Ilyich",
+          "house": 41,
+          "apartment": 103
+        }
+      }
+    }
+  }
+}
